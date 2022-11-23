@@ -49,7 +49,7 @@
 	
 	
 	<!-- 컴포넌트를 탐색(scan)하는 패키지 설정 -->
-	<context:component-scan base-package="a.b.c" />
+	<context:component-scan base-package="a.b.c, web.controller, web.service,web.logging" />
 	
 	
 	

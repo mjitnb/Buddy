@@ -19,7 +19,7 @@
 	
 		
 	<logger name="web">
-		<level value="info" />
+		<level value="debug" />
 	</logger>
 	
 	
