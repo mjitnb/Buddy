@@ -13,8 +13,6 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-
-# ignore properties file
 pom.properties
 
 # External tool builders
