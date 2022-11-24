@@ -22,7 +22,7 @@
 
 
 	<typeAliases>
-		<!-- <package name="web.dto"/> -->
+		<package name="web.dto"/>
 	</typeAliases>
 	
 	
